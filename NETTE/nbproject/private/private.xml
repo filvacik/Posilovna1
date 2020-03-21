@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/SignPresenter.php</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/templates/Fil/default.latte</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/VacikPresenter.php</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/model/user/users.php</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/templates/Filip/success.latte</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/templates/Homepage/detail.latte</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/RandoPresenter.php</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/templates/Filip/default.latte</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/BasePresenter.php</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/templates/Vacik/default.latte</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/model/forms/Register.php</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/templates/@layout.latte</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/Error4xxPresenter.php</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/Filip1Presenter.php</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/FilipPresenter.php</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/HomepagePresenter.php</file>
+            <file>file:/home/uzivatel/projects/NETTE/app/presenters/ErrorPresenter.php</file>
+        </group>
+    </open-files>
+</project-private>
