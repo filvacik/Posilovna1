@@ -11,7 +11,7 @@ class PosilovnaPresenter extends BasePresenter{
     }
 
     public function createComponent($name) {
-    return new \forms\PosilovnaP;
+    return new \forms\PosilovnaP($this, $name);
 }
 
 }
